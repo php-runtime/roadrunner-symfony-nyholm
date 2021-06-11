@@ -5,6 +5,7 @@
 ### Added
 
 - Added better session handling
+- Add support for Symfony 6
 
 ## 0.1.0
 
