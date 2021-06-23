@@ -15,7 +15,7 @@ composer require runtime/roadrunner-symfony-nyholm
 Define the environment variable `APP_RUNTIME` for your application.
 
 ```
-APP_RUNTIME=Runtime\RoadRunnerSymfonyNyholm\Runtime
+APP_RUNTIME=Runtime\\RoadRunnerSymfonyNyholm\\Runtime
 ```
 
 
